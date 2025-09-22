@@ -1,2 +1,1 @@
-sadasdada
-asdasda
+input("dame un valor")
